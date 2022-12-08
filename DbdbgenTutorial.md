@@ -1,7 +1,7 @@
 `dbdbgen` Tutorial
 ==================
 
-In this example, we will to create a `dbdbgen` program to generate a table with
+In this example, we will create a `dbdbgen` program to generate a table with
 M columns and N rows populated with 0 or 1 randomly.
 
 `dbdbgen` programs are written in [Jsonnet](https://jsonnet.org/). We strongly
